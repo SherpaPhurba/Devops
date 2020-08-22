@@ -1,2 +1,2 @@
-ip a >> ip.txt
+ip a > ip.txt
 echo "this is the ip address"
